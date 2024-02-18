@@ -1,6 +1,6 @@
 def greet(name):
     """This function greets the user."""
-    print(f"Hello {Everyone}! Welcome to the world of Python programming.")
+    print(f"Hello {Everybody}! Welcome to the world of Python programming.")
 
 def main():
     print("=== Welcome to Python Introduction ===")
