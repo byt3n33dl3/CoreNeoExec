@@ -67,4 +67,7 @@ You can change the options with `SET option_name option_value`
 >>> set port 4444
 ```
 
-Thanks to: swisskyrepo
+Thanks to: 
+- swisskyrepo
+- metasploit
+- pxcs
