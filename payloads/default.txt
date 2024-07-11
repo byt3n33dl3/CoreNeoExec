@@ -1,0 +1,6 @@
+Rem:Command Execution for Ubuntu/Debian (ALT+F2)
+Press:130+195
+CustomDelay:1000
+Print:%s
+CustomDelay:1000
+Press:176
