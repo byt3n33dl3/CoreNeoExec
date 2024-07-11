@@ -1,6 +1,6 @@
-**Warning** : Newest version of WHID Toolkit expect the WHID to have a firmware in the prefered language, alternatively you can force the french keyboard with the english firmware using the `--force` arguments. For more customization informations go to swisskyrepo.github.io .
+**Warning** : Newest version of Neo Toolkit expect the Neo to have a firmware in the prefered language, alternatively you can force the french keyboard with the english firmware using the `--force` arguments. For more customization informations go to swisskyrepo.github.io .
 
-Where to buy a WHID Injector ? I got mine from [Aliexpress](https://www.aliexpress.com/item/Cactus-Micro-compatible-board-plus-WIFI-chip-esp8266-for-atmega32u4/32318391529.html)
+Where to buy a Neo injector ? I got mine from [Aliexpress](https://www.aliexpress.com/item/Cactus-Micro-compatible-board-plus-WIFI-chip-esp8266-for-atmega32u4/32318391529.html)
 
 ## How to use the script
 ```c
@@ -29,7 +29,7 @@ Send a simple reverse-shell payload
 ```
 $ python3 injector.py -v --host 127.0.0.1 --port 4444
      -------------------------------------------------------------
-      WHID injector - You need to be connected to the Exploit AP
+      Neo injector - You need to be connected to the Exploit AP
      -------------------------------------------------------------
                    __   °
                  <(o )___
