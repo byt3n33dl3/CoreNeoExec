@@ -1,18 +1,6 @@
-![whid-picture](https://github.com/swisskyrepo/WHID_Toolkit/blob/master/screenshots/whid.jpg?raw=true)
-
 **Warning** : Newest version of WHID Toolkit expect the WHID to have a firmware in the prefered language, alternatively you can force the french keyboard with the english firmware using the `--force` arguments. For more customization informations go to swisskyrepo.github.io .
 
 Where to buy a WHID Injector ? I got mine from [Aliexpress](https://www.aliexpress.com/item/Cactus-Micro-compatible-board-plus-WIFI-chip-esp8266-for-atmega32u4/32318391529.html)
-
-## How to start
- 1. Connect to the Access Point with the SSID "**Exploit**" with a password of "**DotAgency**".   
- 2. Open a web browser pointed to "**http://192.168.1.1**"   
-    > The default administration username is "**admin**" and password "**hacktheplanet**".       
-
- 3. Remember to upgrade the firmware you will find the latest version in this repository  
-
-More info on the official Github : https://github.com/pxcs/CoreNeoExec
-
 
 ## How to use the script
 ```c
